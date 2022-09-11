@@ -1,0 +1,4 @@
+git reflog - verifica as versoes
+git push - faz o envio do seu arquivo para a nuvem
+git add - adciona arquivo
+git add . - adiciona todos
