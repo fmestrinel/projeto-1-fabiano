@@ -9,7 +9,7 @@ git branch ------------------------------------------------------------	permite 
 git checkout nome da branch -------------------------------------------	permite mudar para uma nova branch
 git checkout -b "nome da branch de origem" "nome da nova branch" ------	permite mudar e ccriar uma nova branch com base em outra
 git merge "branch a receber merge" ------------------------------------	permite fazer o merge da branch ativa atualmente com outra branch
-
+git push origin master ------------------------------------------------	Envia o projeto atualizado para a nuvem
 
 ******unir as branchs********
 1. git pull da branch principal
